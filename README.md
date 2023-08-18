@@ -1,7 +1,7 @@
 <div align = "center">
 <h1 align = "center"> Hi there, I’m Nicolas Miño 👋 </h1>
 <div>
-<img src="C:\Users\Electronica\Downloads">
+<img src="C:\Users\Electronica\Downloads\nicolas.png">
 <!--
 **nicolasmino/nicolasmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
