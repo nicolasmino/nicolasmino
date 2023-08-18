@@ -5,9 +5,9 @@
 <!--
 **nicolasmino/nicolasmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Sobre mi
+## About me
 
 - 🔭 I’m currently studing on EEST N°5 "2 de abril" in Argentina.
 - ✍ I’m currently learning : english, Java Script, CSS, C++ and Phyton.
 - 🌱 I’m looking to work independently from home
-  
+  <br>
