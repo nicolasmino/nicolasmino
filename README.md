@@ -19,7 +19,7 @@
 <p align="center">
 <a href="https://github.com/nicolasmino">
  
-  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasmino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolasmino&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="right" width="220cm" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasmino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="left" width="220cm" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolasmino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
