@@ -5,7 +5,7 @@
 
  ## About me 
  
- <img width="20%" align="right" alt="Github" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" />
+ <img width="30%" align="right" alt="Github" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" />
 
 - ✍ Technician student
 - ☀ Autodidact
