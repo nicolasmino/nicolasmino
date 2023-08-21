@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">hi, im Nicolas </a> 👋</h1>
 </div>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FIQmywRzBkxHcbkdwACSJrJNovH7VuOxzEPpVCBxxnLd3ZfFlK3Hhep-uNpMRTe5RJQO_0qK3BRzkPPh2HTQ78p2mdN5EnSxtfFQdlt0at-hlpAMJKFG40O206QPINE7UyZ9irpGx8Ar4iJwtQ_T1XUGeS4ovHuxyW1jtTcgc041F_Lk0UQLAArNnEAO/w400-h225/banner-nicolas-presentacion.jpg">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FIQmywRzBkxHcbkdwACSJrJNovH7VuOxzEPpVCBxxnLd3ZfFlK3Hhep-uNpMRTe5RJQO_0qK3BRzkPPh2HTQ78p2mdN5EnSxtfFQdlt0at-hlpAMJKFG40O206QPINE7UyZ9irpGx8Ar4iJwtQ_T1XUGeS4ovHuxyW1jtTcgc041F_Lk0UQLAArNnEAO/s16000/banner-nicolas-presentacion.jpg.jpg">
 
 ## about me
 
@@ -9,7 +9,7 @@
 - ☀ Autodidact
 - ⌚ Learning Java Script, Phyton, C++ and CSS
 - ✉ minonicolasjared@gmail.com
-- ☎ 1122660303
+- ☎ +54 911 2266-0303
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
