@@ -5,7 +5,7 @@
 
  ## About me 
  
- <img width="30%" align="center" alt="Github" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" />
+ <img width="30%" align="right" alt="Github" src = "https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" />
 
 - ✍ Technician student
 - ☀ Autodidact
@@ -18,7 +18,8 @@
 
 <p align="center">
 <a href="https://github.com/nicolasmino">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasmino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolasmino&layout=compact&langs_count=8&theme=algolia"/>
+ 
+  <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasmino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicolasmino&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
