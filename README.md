@@ -9,10 +9,26 @@
 
 - ✍ Technician student
 - ☀ Autodidact
-- ⌚ Learning Java Script, Phyton, C++ and CSS
 - ✉ minonicolasjared@gmail.com
 - ☎ +54 911 2266-0303
 <br>
+
+<h2>  // Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+- <h3> programming & markup languages </h3>
+  
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt = "html" height = "40" width = "40" />
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt = "css" height = "40" width = "40" />
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt = "c" height = "40" width = "40" />
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt = "c++" height = "40" width = "40" />
+- <h3> learning <h3>
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt = "js" height = "40" width = "40" />
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt = "python" height = "40" width = "40" />
+
+- <h3> tools </h3>
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt = "arduino" height = "40" width = "40" />
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt = "visualcode" height = "40" width = "40" />
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt = "git" height = "40" width = "40" />  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
