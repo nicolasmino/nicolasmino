@@ -1,13 +1,22 @@
-<div align = "center">
-<h1 align = "center"> Hi there, I’m Nicolas Miño 👋 </h1>
-<div>
-<img src="C:\Users\Electronica\Downloads\nicolas.png">
-<!--
-**nicolasmino/nicolasmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h1 align="center">hi, im Nicolas </a> 👋</h1>
+</div>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FIQmywRzBkxHcbkdwACSJrJNovH7VuOxzEPpVCBxxnLd3ZfFlK3Hhep-uNpMRTe5RJQO_0qK3BRzkPPh2HTQ78p2mdN5EnSxtfFQdlt0at-hlpAMJKFG40O206QPINE7UyZ9irpGx8Ar4iJwtQ_T1XUGeS4ovHuxyW1jtTcgc041F_Lk0UQLAArNnEAO/w400-h225/banner-nicolas-presentacion.jpg">
 
-## About me
+## about me
 
-- 🔭 I’m currently studing on EEST N°5 "2 de abril" in Argentina.
-- ✍ I’m currently learning : english, Java Script, CSS, C++ and Phyton.
-- 🌱 I’m looking to work independently from home
-  <br>
+- ✍ Technician student
+- ☀ Autodidact
+- ⌚ Learning Java Script, Phyton, C++ and CSS
+- ✉ minonicolasjared@gmail.com
+- ☎ 1122660303
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/nicolasmino">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
