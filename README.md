@@ -24,10 +24,12 @@
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt = "css" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt = "c" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt = "c++" height = "40" width = "40" />
+  
 - <h3> learning <h3>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt = "js" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" alt = "python" height = "40" width = "40" />
-
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt = "linux" height = "40" width = "40" />
+  
 - <h3> tools </h3>
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt = "arduino" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt = "visualcode" height = "40" width = "40" />
@@ -38,19 +40,15 @@
 
 <p align="center">
  <a href="">
-
  <a href="https://twitter.com/Nico_mino__">
  <img border="0" alt="nicolasmino" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
-
  <a href="https://instagram.com/nicolas_mino__">
  <img border="0" alt="nicolas IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
-
  <a href="https://t.me/nicolas_mino">
  <img border="0" alt="nicolasmino TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
-
  <a href="https://discord.com/invite/nicolas_mino_">
  <img border="0" alt="" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
