@@ -36,7 +36,7 @@
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt = "git" height = "40" width = "40" />  
   <br><br>
   
-<h2> Conect me </h2>
+<h2> Contact me </h2>
 
 <p align="center">
  <a href="">
