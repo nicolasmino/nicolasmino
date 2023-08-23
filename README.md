@@ -13,7 +13,7 @@
 - ☎ +54 911 2266-0303
 <br>
 
-<h2>  // Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2>  Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 - <h3> programming & markup languages </h3>
   
@@ -29,6 +29,32 @@
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original-wordmark.svg" alt = "arduino" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" alt = "visualcode" height = "40" width = "40" />
   <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" alt = "git" height = "40" width = "40" />  
+  <br><br>
+  
+<h2> Conect me </h2>
+
+<p align="center">
+ <a href="">
+
+ <a href="https://twitter.com/Nico_mino__">
+ <img border="0" alt="nicolasmino" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ </a>
+
+ <a href="https://instagram.com/nicolas_mino__">
+ <img border="0" alt="nicolas IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ </a>
+
+ <a href="https://t.me/nicolas_mino">
+ <img border="0" alt="nicolasmino TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+ </a>
+
+ <a href="https://discord.com/invite/nicolas_mino_">
+ <img border="0" alt="" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+ </a>
+ <a href="mailto:minonicolasjared@gmail.com">
+ <img border="0" alt="nicolas Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
